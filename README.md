@@ -25,7 +25,7 @@ Here are some ideas to get you started: -->
 ![](https://github-profile-trophy.vercel.app/?username=arhat-dahiwale&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-
+> [!danger] "It is harder to live by each day"
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arhat-dahiwale&limit=5&theme=dark&combine_all_yearly_contributions=true)
